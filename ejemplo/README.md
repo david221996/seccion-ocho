@@ -1,2 +1,2 @@
 ## Inicio de aplicación web
-## Esta es una prueba local
+## Esta es una prueba
